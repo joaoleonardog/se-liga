@@ -1,0 +1,23 @@
+.corpo{ 
+background-color: blueviolet;
+color: black;
+text-align: center;
+border: 15px;
+  border-style: double;
+  border-color: darkorchid;
+}
+
+p{
+    color: firebrick;
+    font-size: 17px;
+}
+
+#link{
+    color: darkgreen;
+    text-decoration: none
+}
+
+#link:houver{
+   color: deeppink;
+   font-size: 15px;
+}
